@@ -1,4 +1,4 @@
-#Adventure Game
+Adventure Game
 
 This is a text-based adventure game where the player explores rooms, collects items, battles creatures, and progresses through multiple levels until all rooms are cleared. The game features saving and loading functionality to resume progress later.
 
@@ -23,6 +23,10 @@ up, down, left, right: Move the player in the specified direction.
 inventory: View and use items in your inventory.
 
 look: Look around the room to examine its contents.
+
+pick up:Picks up items on the floor
+
+attack:Attacks the creature.
 
 save: Save the game progress.
 
